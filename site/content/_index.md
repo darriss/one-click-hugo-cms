@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Faniel Family Reunion"
+subtitle: See you in July 2024
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
