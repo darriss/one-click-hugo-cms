@@ -3,8 +3,8 @@ title: "Faniel Family Reunion"
 subtitle: See you in July 2024
 image: /img/IMG_6161.jpg
 blurb:
-    heading: When and where are we reuniting?
-    text: "The tentative dates for our second family reunion, location in Florida, are July 25th - July 27th, 2024! The main event is Saturday July 27th, where we will have catered food, board games, sack race, cards, yoga, meditation, music, etc."
+    heading: Reunion dates and location!
+    text: "The tentative dates for our second family reunion, located in Orlando, Florida, are July 25th - July 27th, 2024! The main event is Saturday July 27th, where we will have catered food, board games, sack race, cards, yoga, meditation, music, etc."
 intro:
     heading: "When should I arrive?"
     text: "It depends! Those who live close to the location of the event will be able to come on Saturday morning and stay all day. Relatives who live out of town can fly in Thursday night, for a Meet & Greet with Hors D'oeuvres & Cocktails. We will also have a family dinner at an outside restaurant with possible entertainment and professional with tips for healthy, happy living."
