@@ -3,18 +3,18 @@ title: "Faniel Family Reunion"
 subtitle: See you in July 2024
 image: /img/IMG_6161.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: When and where are we reuniting?
+    text: "The tentative dates for our second family reunion, location in Florida, are July 25th - July 27th, 2024! The main event is Saturday July 27th, where we will have catered food, board games, sack race, cards, yoga, meditation, music, etc."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "When should I arrive?"
+    text: "It depends! Those who live close to the location of the event will be able to come on Saturday morning and stay all day. Relatives who live out of town can fly in Thursday night, for a Meet & Greet with Hors D'oeuvres & Cocktails. We will also have a family dinner at an outside restaurant with possible entertainment and professional with tips for healthy, happy living."
 products:
     - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+      text: "This is footage from our reuniion in 2022!"
     - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: "This a video from our old reunion."
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: How much will this cost?
+    text: We are working out the expenses but we are aiming to make this as affordable as possible for everyone! The cost will include the venue, catered food, and family swag. A final budget is coming soon.
 ---
 
