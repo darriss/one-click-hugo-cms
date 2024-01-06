@@ -1,5 +1,5 @@
 ---
-title: "Faniel Family Reunion"
+title: "Sammy's Portfolio"
 subtitle: See you in July 2024
 image: /img/IMG_6161.jpg
 blurb:
@@ -17,4 +17,3 @@ values:
     heading: How much will this cost?
     text: We are working out the expenses but we are aiming to make this as affordable as possible for everyone! The cost will include the venue, catered food, and family swag. A final budget is coming soon.
 ---
-
