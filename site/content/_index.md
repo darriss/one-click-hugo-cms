@@ -1,5 +1,5 @@
 ---
-title: "Sammy's Portfolio"
+title: "Faniel Family Reunion"
 subtitle: See you in July 2024
 image: /img/IMG_6161.jpg
 blurb:
