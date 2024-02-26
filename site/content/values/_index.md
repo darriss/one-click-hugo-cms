@@ -1,45 +1,56 @@
 ---
-title: "Values"
+title: "Birthdays"
 image: /img/about-jumbotron.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "January"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
+      Shaina Jones Magrone ~ January 27
     imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+  - heading: "February"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
+      Mary Marshall ~ February 20
+      Avanna Cross-Thompson ~ February 23
+      Lavene Faniel ~ February 25
     imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+  - heading: "March"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
+      Samantha Darris ~ March 1
+      Kianni Pendleton-White ~ March 9
+      Madisyn Troup ~ March 13
+      Mea Trap ~ March 19
     imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
+  - heading: "April"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+      Sierra Cross-Thomas ~ April 28
     imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
+    - heading: "June"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+      Leonard V. White ~ June 10
+      Anothony Houstopn ~ June 21
+    imageUrl: "/img/about-reinvest-profits.jpg"
+      - heading: "July"
+    text: >
+      David Jones ~ July 16
+      Cheri Thomas ~ July 25
+    imageUrl: "/img/about-reinvest-profits.jpg"
+      - heading: "September"
+    text: >
+      Curtis Faniel ~ September 18
+    imageUrl: "/img/about-reinvest-profits.jpg"
+      - heading: "October"
+    text: >
+      Cecil Mott ~ October 20
+    imageUrl: "/img/about-reinvest-profits.jpg"
+      - heading: "November"
+    text: >
+      Jackie Faniel ~ November 4
+      Louis Gilder ~ November 11
+      Linda Jones ~ November 27
+    
+    imageUrl: "/img/about-reinvest-profits.jpg"
+      - heading: "December"
+    text: >
+      Catherine Fudge ~ December 16
+      Sheila Jones ~ December 17
     imageUrl: "/img/about-reinvest-profits.jpg"
 ---
